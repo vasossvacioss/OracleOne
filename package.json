@@ -1,0 +1,22 @@
+{
+  "name": "semana-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasossvacioss/OracleOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasossvacioss/OracleOne/issues"
+  },
+  "homepage": "https://github.com/vasossvacioss/OracleOne#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
